@@ -1,0 +1,16 @@
+pandas
+numpy
+langchain-community
+langchain
+
+langchain-core
+streamlit
+# Environment Variable Management
+python-dotenv
+# Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface-hub
+
+pydantic
+grandalf
